@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tomato</folder>
+	<filename>Tomato.a5c1ccb4-af55-11ed-8663-dca632d1e09e.jpg</filename>
+	<path>E:\PyCharmProjects\SortingMachineAlgo\Tensorflow\workspace\images\CollectedImages\Tomato\Tomato.a5c1ccb4-af55-11ed-8663-dca632d1e09e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tomato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>227</ymin>
+			<xmax>402</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>
