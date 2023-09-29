@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Potato</folder>
+	<filename>Potato.52919736-f2ee-11ed-ae87-dca632d1e09e.jpg</filename>
+	<path>E:\PyCharmProjects\SortingMachineAlgo\Tensorflow\workspace\images\CollectedImages\Potato\Potato.52919736-f2ee-11ed-ae87-dca632d1e09e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Potato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>215</ymin>
+			<xmax>476</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
